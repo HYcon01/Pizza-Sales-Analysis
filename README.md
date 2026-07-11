@@ -33,6 +33,9 @@ This analysis answers the following business questions:
 - What are the top 5 best-selling pizzas?
 - How do sales vary by month?
 - Which pizza types perform poorly?
+- Sales Heatmap
+- Orders per Hour
+- Top ingredients used
 
 ---
 
